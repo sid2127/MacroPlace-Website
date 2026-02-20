@@ -43,11 +43,6 @@ It supports user authentication, role-based access control, product management, 
 - Remove from favorites
 - Get user favorites
 
-### 🌱 Seed Data
-- 1 Admin user
-- 1 Normal user
-- 10 sample products
-
 ---
 
 ## ⚙️ Project Setup
